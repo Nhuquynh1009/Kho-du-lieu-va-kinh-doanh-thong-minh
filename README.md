@@ -39,6 +39,9 @@ Yêu cầu bài toán là xây dựng một báo cáo tổng quan Dashboard phâ
 ![alt text](img/tongkhoanvay.png)
 ![alt text](img/tongkhoantrapng.png)
 
+Có thể thấy khoản vay giải ngân ít hơn đề nghị là 0.13%
+
+
 
 
 
