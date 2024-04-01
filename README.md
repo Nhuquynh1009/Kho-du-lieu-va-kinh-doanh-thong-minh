@@ -29,13 +29,15 @@ Dữ liệu gồm:
 Nội dung bộ dữ liệu: Cơ sở dữ liệu gồm thông tin các khoản vay của Lending Loan club từ năm 2007-2017. 
 # Yêu cầu bài toán
 Yêu cầu bài toán là xây dựng một báo cáo tổng quan Dashboard phân tích khoản tiền khách hàng vay, Phân tích khoản tiền khách hàng trả, Phân tích số tiền lãi nhận được từ từng khách hàng, Phân tích số lượng khách hàng vay.
-![alt text](img/)
+![alt text](img/yeucau.png)
 
 ## Mô hình thực thể liên kết và OLTP
 ![alt text](img/thucthelienket_n.png)
 ![alt text](img/olap.png)
 ## Khám phá dữ liệu
-
+### Phân phối dữ liệu tiền vay
+![alt text](img/tongkhoanvay.png)
+![alt text](img/tongkhoantrapng.png)
 
 
 
