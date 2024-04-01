@@ -1,4 +1,4 @@
-# Kho du lieu va kinh doanh thong minh
+# Kho dữ liệu và kinh doanh thông minh
  Trong thời đại số hóa ngày càng phát triển, dữ liệu đã trở thành một tài nguyên quan trọng, được coi là "dầu mỏ" của thế kỷ XXI. Hiểu và khai thác dữ liệu một cách thông minh đã trở thành yếu tố quyết định sự thành công của các doanh nghiệp và tổ chức trong mọi lĩnh vực. Kho dữ liệu, cùng với công nghệ phân tích dữ liệu và trí tuệ nhân tạo, đóng vai trò quan trọng trong việc tạo ra thông tin hữu ích và hiểu sâu về khách hàng, thị trường và quy trình kinh doanh.
 
 Báo cáo này sẽ giới thiệu một số khái niệm cơ bản về kho dữ liệu và kinh doanh thông minh, từ cách xây dựng một kho dữ liệu hiệu quả, quản lý dữ liệu, cho đến quá trình trích xuất thông tin, phân tích và áp dụng dữ liệu trong kinh doanh.
@@ -20,13 +20,17 @@ Dữ liệu gồm:
 -Kích thước: 441.77 MB
 - 74 cột
 - Gần 900 nghìn dòng
+
 • File lc_2016_2017.csv: dữ liệu năm 2016 - 2017
 -Kích thước: 282.74 MB
 -72 cột
 -Gần 800 nghìn dòng
+
+Nội dung bộ dữ liệu: Cơ sở dữ liệu 
 # Mô hình thực thể liên kết và OLTP
 ![alt text](img/thucthelienket_n.png)
 ![alt text](img/olap.png)
+
 
 
 
